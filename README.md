@@ -86,7 +86,12 @@ The $POP smart contract is designed with simplicity and security in mind:
 ## 📫 Join Us
 
 Stay updated and connect with our community:
-- Website: [POP.RESTAURANT](https://pop.restaurant)
-- Social Media: Coming Soon!
+
+- **Website:** [POP.RESTAURANT](https://pop.restaurant)
+- **X (Twitter):** [@POP4ETH](https://x.com/POP4ETH)
+- **Telegram (Community):** [@pop4eth](https://t.me/pop4eth)
+- **Telegram (Announcements):** [@poprestaurantann](https://t.me/poprestaurantann)
+- **DexTools:** [POP Chart](https://www.dextools.io/app/en/token/pop4eth)
+- **DexScreener:** [POP Chart](https://dexscreener.com/base/0x60e2292706583824521c677f90a69d8af7bdc469)
 
 **POP.RESTAURANT** – Eat. Earn. ETH. Leave richer every time.
